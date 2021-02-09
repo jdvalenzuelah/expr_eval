@@ -4,7 +4,7 @@
 
 Install kscript: https://github.com/holgerbrandl/kscript#installation
 
-make sure scripis executable
+make sure script is executable
 ```
 $ chmod +x eval.kts
 ```
